@@ -22,7 +22,7 @@ public class GameEngine : MonoBehaviour
     {
 
 		//maak hier een lokale variable,
-        //1 (acces=private, Type= RelAdd[], name=pathplus)
+        //1 (Type= RelAdd[], name=pathplus)
         //maak deze meteen ook met new aan, 10 groot graag
         ??? = new ???
         //geef path (class variable) hier een waarde met new, even groot als pathplus! 
